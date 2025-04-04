@@ -146,3 +146,4 @@ class NewAgent(BaseAgent):
 ```
 
 ![image](https://github.com/user-attachments/assets/927955be-b4a1-47e8-9bba-ef848aad4921)
+![image](https://github.com/user-attachments/assets/ddbad8ed-98f2-4fe7-9801-97013eb45b14)
