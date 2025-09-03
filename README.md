@@ -144,6 +144,5 @@ class NewAgent(BaseAgent):
         # 实现消息处理逻辑
         yield "智能体回复"
 ```
-
-![image](https://github.com/user-attachments/assets/927955be-b4a1-47e8-9bba-ef848aad4921)
-![image](https://github.com/user-attachments/assets/ddbad8ed-98f2-4fe7-9801-97013eb45b14)
+![image](https://github.com/user-attachments/assets/07da905b-da4a-46b5-b042-8758e8ffb96b)
+![image](https://github.com/user-attachments/assets/edc1ab83-8508-4a32-84ff-9be37b0b94f1)
